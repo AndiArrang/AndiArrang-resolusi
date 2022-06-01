@@ -1,0 +1,2 @@
+# AndiArrang-resolusi
+future plan
