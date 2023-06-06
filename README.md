@@ -1,4 +1,8 @@
 # AndiArrang-resolusi
 future plan
-1. belajar node js
-2. belajar react js
+- belajar cara bikin server di oracle cloud
+- belajar deploy website di oracle cloud (react js,node js,mysql)
+- susun proposal
+- cari jurnal tentang VSM
+- pelajari dengan baik tentang VSM
+
